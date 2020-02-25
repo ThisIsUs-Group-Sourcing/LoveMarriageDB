@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29721.120
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LoveMarriage.DB", "LoveMarriage.DB\LoveMarriage.DB.sqlproj", "{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1126B562-CBE4-4F26-8CBD-F00AA870CFFD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E851675D-8E35-4F90-A982-4B43BDAFBE35}
+	EndGlobalSection
+EndGlobal
